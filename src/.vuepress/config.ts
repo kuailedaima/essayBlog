@@ -4,7 +4,7 @@ import { viteBundler } from '@vuepress/bundler-vite'
 import { searchProPlugin } from "vuepress-plugin-search-pro";
 
 export default defineUserConfig({
-  base: "/",
+  base: "/essayBlog/",
 
   lang: "zh-CN",
   title: "王先生的博客",
