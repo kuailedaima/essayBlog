@@ -3,7 +3,7 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  // hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://kuailedaima.github.io/essayBlog",
 
   author: {
     name: "Mr.Wang",
@@ -19,7 +19,7 @@ export default hopeTheme({
 
   logo: "/avatar.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "kuailedaima/essayBlog",
 
   docsDir: "src",
 
@@ -52,7 +52,7 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
+      repo: "kuailedaima/giscus-discussions",
       repoId: "R_kgDOG_Pt2A",
       category: "Announcements",
       categoryId: "DIC_kwDOG_Pt2M4COD69",
