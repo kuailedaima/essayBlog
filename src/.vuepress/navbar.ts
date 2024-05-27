@@ -42,9 +42,4 @@ export default navbar([
     icon: 'time',
     link: '/timeline/'
   },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
-  },
 ]);
