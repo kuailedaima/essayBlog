@@ -52,10 +52,10 @@ export default hopeTheme({
     // You should generate and use your own comment service
     comment: {
       provider: "Giscus",
-      repo: "kuailedaima/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
+      repo: "kuailedaima/essayBlog-comments",
+      repoId: "R_kgDOMBE6YA",
       category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      categoryId: "DIC_kwDOMBE6YM4CfohR",
     },
     blog: true,
     // All features are enabled for demo, only preserve features you need here
