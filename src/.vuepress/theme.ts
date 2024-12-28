@@ -13,7 +13,7 @@ export default hopeTheme({
   // iconAssets: "fontawesome-with-brands",
   // iconAssets: "fontawesome",
   iconAssets: [
-    "//at.alicdn.com/t/c/font_4514138_sxfssv491mn.css",
+    "//at.alicdn.com/t/c/font_4514138_ii4xqntfbph.css",
     // "fontawesome"
   ],
 

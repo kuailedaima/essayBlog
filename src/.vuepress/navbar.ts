@@ -23,6 +23,11 @@ export default navbar([
         icon: "Vue", 
         link: 'vue/01.md',
       },
+      {
+        text: "代码片段",
+        icon: "daimapianduan", 
+        link: 'codeSnippet/01_前言.md',
+      },
     ],
   },
   {

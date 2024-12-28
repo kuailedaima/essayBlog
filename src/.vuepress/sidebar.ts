@@ -35,15 +35,13 @@ export default sidebar({
       collapsible: true,
       children: 'structure',
     },
-  ],
-  '/server/': [
     {
-      text: 'nodeJs',
-      icon: 'nodejs1',
-      prefix: 'node/',
+      text: '代码片段',
+      icon: 'daimapianduan',
+      prefix: 'codeSnippet/',
       link: '',
       collapsible: true,
       children: 'structure',
     },
-  ]
+  ],
 });
